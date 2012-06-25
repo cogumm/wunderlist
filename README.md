@@ -4,7 +4,7 @@ For details on Wunderlist, please see <http://www.6wunderkinder.com. Wunderlist 
 
 ## Current status
 
-This is the 1.0 development branch of Wunderlist and is no longer actively maintained. The repository remains open as a source of knowledge for anyone building a desktop application with Titanium Desktop SDK.
+This is the 1.0 development branch of Wunderlist and is __no longer actively maintained__. That means that pull requests are not reviewed and merged, but the repository remains open as a source of knowledge for anyone building a desktop application with Titanium Desktop SDK.
 
 ## Building Wunderlist
 
