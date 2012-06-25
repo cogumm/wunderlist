@@ -1,38 +1,20 @@
-+==========================================================================+
-+                           Wunderlist for Desktop                         +
-+==========================================================================+
+# Wunderlist for Desktop
 
 For details on Wunderlist, please see <http://www.6wunderkinder.com. Wunderlist source code is licensed under the terms of the Apache Public License, version 2.
 
----------------------
- Building Wunderlist
----------------------
+## Current status
 
-Wunderlist is based on Titanium. Download the current Titanium stable on http://www.appcelerator.com/products/download/ and create an new desktop project. Open terminal and go into the "Resources" folder of the empty project you created.
+This is the 1.0 development branch of Wunderlist and is no longer actively maintained. The repository remains open as a source of knowledge for anyone building a desktop application with Titanium Desktop SDK.
 
-Then type "git clone git@github.com:6wunderkinder/wunderlist.git ." and that's it! Now you are member of the Wunderlist community ;)
+## Building Wunderlist
 
---------------------
- Known Bugs
---------------------
+Wunderlist is based on Titanium Desktop SDK, now part of Apache Foundation. Download the current Titanium Desktop stable on http://www.appcelerator.com/products/download/ and create a new desktop project. Then open terminal, go into the "Resources" folder of the empty project you created and type __"git clone git@github.com:6wunderkinder/wunderlist.git ."__.
 
-The desktop version of Wunderlist has some strange bugs that we couldn't fix yet. They will be fixed when Titanium 1.1.0 is released.
+## Getting assistance
 
-- Auto-Update on Windows
-- Bad OS X behaviour (Close on "X")
-- Doesn't work on Linux (Drag & Drop and Menu Bug)
+For help on Wunderlist (or to report bugs), join us at http://support.wunderlist.com. We'd also encourage you to follow us on Twitter at http://twitter.com/6Wunderkinder or @6Wunderkinder.
 
---------------------
- Getting Assistance
---------------------
-
-For more help on Wunderlist (or to report bugs), we have a good support tracker on http://support.6wunderkinder.com.
-
-We'd also encourage you to follow us on Twitter at http://twitter.com/6Wunderkinder or @6Wunderkinder
-
----------
- Credits
----------
+## Credits
 
 - Christian Reber, Product Developer
 - Daniel Marschner, App Developer
@@ -41,7 +23,7 @@ We'd also encourage you to follow us on Twitter at http://twitter.com/6Wunderkin
 - Sebastian Kreutzberger, App Developer
 - Adam Renklint, Javascript Developer
 
-Translations:
+## Translations
 
 - Alejandro Martinez, Spanish
 - Sergio Melro (http://twitter.com/sergiomelro) and Pedro Crispim, Portuguese
@@ -69,9 +51,7 @@ Translations:
 
 Huge thanks to all our users, we love you!
 
--------------
- Legal Stuff
--------------
+## Legal stuff
 
 Copyright (C) 2010-2011 by 6 Wunderkinder (6 Wunderkinder GmbH, Germany) All Rights Reserved.
 
