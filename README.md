@@ -1,6 +1,6 @@
 # Wunderlist for Desktop
 
-For details on Wunderlist, please see <http://www.6wunderkinder.com. Wunderlist source code is licensed under the terms of the Apache Public License, version 2.
+For details on Wunderlist, please see http://www.6wunderkinder.com. Wunderlist source code is licensed under the terms of the Apache Public License, version 2.
 
 ## Current status
 
@@ -53,6 +53,6 @@ Huge thanks to all our users, we love you!
 
 ## Legal stuff
 
-Copyright (C) 2010-2011 by 6 Wunderkinder (6 Wunderkinder GmbH, Germany) All Rights Reserved.
+Copyright (C) 2010-2012 by 6Wunderkinder (6 Wunderkinder GmbH, Germany) All Rights Reserved.
 
 Wunderlist is a trademark of 6 Wunderkinder GmbH.
